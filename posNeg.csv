@@ -1,0 +1,289 @@
+orderOriginal,orderPivot,species,question,response,count,percent,village
+8,1,African civet,negWhy,N/A,58,100,Ka-Ndengeza
+8,2,African civet,negWhy,Kill poultry,0,0,Ka-Ndengeza
+8,3,African civet,negWhy,Kill pets ,0,0,Ka-Ndengeza
+8,4,African civet,negWhy,Cultural,0,0,Ka-Ndengeza
+13,5,African wildcat,negWhy,N/A,54,93.1,Ka-Ndengeza
+13,6,African wildcat,negWhy,Kill poultry,4,6.9,Ka-Ndengeza
+13,7,African wildcat,negWhy,Kill pets ,0,0,Ka-Ndengeza
+13,8,African wildcat,negWhy,Cultural,0,0,Ka-Ndengeza
+7,9,Black backed jackal,negWhy,N/A,58,100,Ka-Ndengeza
+7,10,Black backed jackal,negWhy,Kill poultry,0,0,Ka-Ndengeza
+7,11,Black backed jackal,negWhy,Kill pets ,0,0,Ka-Ndengeza
+7,12,Black backed jackal,negWhy,Cultural,0,0,Ka-Ndengeza
+1,13,Banded mongoose,negWhy,N/A,46,79.3,Ka-Ndengeza
+1,14,Banded mongoose,negWhy,Kill poultry,12,20.7,Ka-Ndengeza
+1,15,Banded mongoose,negWhy,Kill pets ,0,0,Ka-Ndengeza
+1,16,Banded mongoose,negWhy,Cultural,0,0,Ka-Ndengeza
+11,17,Caracal,negWhy,N/A,58,100,Ka-Ndengeza
+11,18,Caracal,negWhy,Kill poultry,0,0,Ka-Ndengeza
+11,19,Caracal,negWhy,Kill pets ,0,0,Ka-Ndengeza
+11,20,Caracal,negWhy,Cultural,0,0,Ka-Ndengeza
+15,25,Domestic cat,negWhy,N/A,54,93.1,Ka-Ndengeza
+15,26,Domestic cat,negWhy,Kill poultry,3,5.2,Ka-Ndengeza
+15,27,Domestic cat,negWhy,Kill pets ,0,0,Ka-Ndengeza
+15,28,Domestic cat,negWhy,Cultural,1,1.7,Ka-Ndengeza
+16,29,Domestic dog,negWhy,N/A,53,91.4,Ka-Ndengeza
+16,30,Domestic dog,negWhy,Kill poultry,5,8.6,Ka-Ndengeza
+16,31,Domestic dog,negWhy,Kill pets ,0,0,Ka-Ndengeza
+16,32,Domestic dog,negWhy,Cultural,0,0,Ka-Ndengeza
+2,33,Dwarf mongoose,negWhy,N/A,39,67.2,Ka-Ndengeza
+2,34,Dwarf mongoose,negWhy,Kill poultry,19,32.8,Ka-Ndengeza
+2,35,Dwarf mongoose,negWhy,Kill pets ,0,0,Ka-Ndengeza
+2,36,Dwarf mongoose,negWhy,Cultural,0,0,Ka-Ndengeza
+14,45,Honey badger,negWhy,N/A,58,100,Ka-Ndengeza
+14,46,Honey badger,negWhy,Kill poultry,0,0,Ka-Ndengeza
+14,47,Honey badger,negWhy,Kill pets ,0,0,Ka-Ndengeza
+14,48,Honey badger,negWhy,Cultural,0,0,Ka-Ndengeza
+12,53,Serval,negWhy,N/A,58,100,Ka-Ndengeza
+12,54,Serval,negWhy,Kill poultry,0,0,Ka-Ndengeza
+12,55,Serval,negWhy,Kill pets ,0,0,Ka-Ndengeza
+12,56,Serval,negWhy,Cultural,0,0,Ka-Ndengeza
+3,57,Slender mongoose,negWhy,N/A,6,10.3,Ka-Ndengeza
+3,58,Slender mongoose,negWhy,Kill poultry,52,89.7,Ka-Ndengeza
+3,59,Slender mongoose,negWhy,Kill pets ,0,0,Ka-Ndengeza
+3,60,Slender mongoose,negWhy,Cultural,0,0,Ka-Ndengeza
+10,61,Striped polecat,negWhy,N/A,58,100,Ka-Ndengeza
+10,62,Striped polecat,negWhy,Kill poultry,0,0,Ka-Ndengeza
+10,63,Striped polecat,negWhy,Kill pets ,0,0,Ka-Ndengeza
+10,64,Striped polecat,negWhy,Cultural,0,0,Ka-Ndengeza
+9,65,Small spotted genet,negWhy,N/A,57,98.3,Ka-Ndengeza
+9,66,Small spotted genet,negWhy,Kill poultry,1,1.7,Ka-Ndengeza
+9,67,Small spotted genet,negWhy,Kill pets ,0,0,Ka-Ndengeza
+9,68,Small spotted genet,negWhy,Cultural,0,0,Ka-Ndengeza
+6,69,Water mongoose,negWhy,N/A,58,100,Ka-Ndengeza
+6,70,Water mongoose,negWhy,Kill poultry,0,0,Ka-Ndengeza
+6,71,Water mongoose,negWhy,Kill pets ,0,0,Ka-Ndengeza
+6,72,Water mongoose,negWhy,Cultural,0,0,Ka-Ndengeza
+5,73,White tailed mongoose,negWhy,N/A,45,77.6,Ka-Ndengeza
+5,74,White tailed mongoose,negWhy,Kill poultry,13,22.4,Ka-Ndengeza
+5,75,White tailed mongoose,negWhy,Kill pets ,0,0,Ka-Ndengeza
+5,76,White tailed mongoose,negWhy,Cultural,0,0,Ka-Ndengeza
+4,77,Yellow mongoose,negWhy,N/A,58,100,Ka-Ndengeza
+4,78,Yellow mongoose,negWhy,Kill poultry,0,0,Ka-Ndengeza
+4,79,Yellow mongoose,negWhy,Kill pets ,0,0,Ka-Ndengeza
+4,80,Yellow mongoose,negWhy,Cultural,0,0,Ka-Ndengeza
+8,1,African civet,posWhy,N/A,58,100,Ka-Ndengeza
+8,2,African civet,posWhy,Kill rodents,0,0,Ka-Ndengeza
+8,3,African civet,posWhy,Kill snakes,0,0,Ka-Ndengeza
+8,4,African civet,posWhy,Cultural,0,0,Ka-Ndengeza
+8,4,African civet,posWhy,Other,0,0,Ka-Ndengeza
+13,5,African wildcat,posWhy,N/A,58,100,Ka-Ndengeza
+13,6,African wildcat,posWhy,Kill rodents,0,0,Ka-Ndengeza
+13,7,African wildcat,posWhy,Kill snakes,0,0,Ka-Ndengeza
+13,8,African wildcat,posWhy,Cultural,0,0,Ka-Ndengeza
+13,8,African wildcat,posWhy,Other,0,0,Ka-Ndengeza
+7,9,Black backed jackal,posWhy,N/A,58,100,Ka-Ndengeza
+7,10,Black backed jackal,posWhy,Kill rodents,0,0,Ka-Ndengeza
+7,11,Black backed jackal,posWhy,Kill snakes,0,0,Ka-Ndengeza
+7,12,Black backed jackal,posWhy,Cultural,0,0,Ka-Ndengeza
+7,12,Black backed jackal,posWhy,Other,0,0,Ka-Ndengeza
+1,13,Banded mongoose,posWhy,N/A,58,100,Ka-Ndengeza
+1,14,Banded mongoose,posWhy,Kill rodents,0,0,Ka-Ndengeza
+1,15,Banded mongoose,posWhy,Kill snakes,0,0,Ka-Ndengeza
+1,16,Banded mongoose,posWhy,Cultural,0,0,Ka-Ndengeza
+1,16,Banded mongoose,posWhy,Other,0,0,Ka-Ndengeza
+11,17,Caracal,posWhy,N/A,58,100,Ka-Ndengeza
+11,18,Caracal,posWhy,Kill rodents,0,0,Ka-Ndengeza
+11,19,Caracal,posWhy,Kill snakes,0,0,Ka-Ndengeza
+11,20,Caracal,posWhy,Cultural,0,0,Ka-Ndengeza
+11,20,Caracal,posWhy,Other,0,0,Ka-Ndengeza
+15,25,Domestic cat,posWhy,N/A,28,48.3,Ka-Ndengeza
+15,26,Domestic cat,posWhy,Kill rodents,30,51.7,Ka-Ndengeza
+15,27,Domestic cat,posWhy,Kill snakes,0,0,Ka-Ndengeza
+15,28,Domestic cat,posWhy,Cultural,0,0,Ka-Ndengeza
+15,28,Domestic cat,posWhy,Other,0,0,Ka-Ndengeza
+16,29,Domestic dog,posWhy,N/A,24,41.4,Ka-Ndengeza
+16,30,Domestic dog,posWhy,Kill rodents,1,1.7,Ka-Ndengeza
+16,31,Domestic dog,posWhy,Kill snakes,0,0,Ka-Ndengeza
+16,32,Domestic dog,posWhy,Cultural,0,0,Ka-Ndengeza
+16,32,Domestic dog,posWhy,Other,33,56.9,Ka-Ndengeza
+2,33,Dwarf mongoose,posWhy,N/A,58,100,Ka-Ndengeza
+2,34,Dwarf mongoose,posWhy,Kill rodents,0,0,Ka-Ndengeza
+2,35,Dwarf mongoose,posWhy,Kill snakes,0,0,Ka-Ndengeza
+2,36,Dwarf mongoose,posWhy,Cultural,0,0,Ka-Ndengeza
+2,36,Dwarf mongoose,posWhy,Other,0,0,Ka-Ndengeza
+14,45,Honey badger,posWhy,N/A,58,100,Ka-Ndengeza
+14,46,Honey badger,posWhy,Kill rodents,0,0,Ka-Ndengeza
+14,47,Honey badger,posWhy,Kill snakes,0,0,Ka-Ndengeza
+14,48,Honey badger,posWhy,Cultural,0,0,Ka-Ndengeza
+14,48,Honey badger,posWhy,Other,0,0,Ka-Ndengeza
+12,53,Serval,posWhy,N/A,58,100,Ka-Ndengeza
+12,54,Serval,posWhy,Kill rodents,0,0,Ka-Ndengeza
+12,55,Serval,posWhy,Kill snakes,0,0,Ka-Ndengeza
+12,56,Serval,posWhy,Cultural,0,0,Ka-Ndengeza
+12,56,Serval,posWhy,Other,0,0,Ka-Ndengeza
+3,57,Slender mongoose,posWhy,N/A,58,100,Ka-Ndengeza
+3,58,Slender mongoose,posWhy,Kill rodents,0,0,Ka-Ndengeza
+3,59,Slender mongoose,posWhy,Kill snakes,0,0,Ka-Ndengeza
+3,60,Slender mongoose,posWhy,Cultural,0,0,Ka-Ndengeza
+3,60,Slender mongoose,posWhy,Other,0,0,Ka-Ndengeza
+10,61,Striped polecat,posWhy,N/A,58,100,Ka-Ndengeza
+10,62,Striped polecat,posWhy,Kill rodents,0,0,Ka-Ndengeza
+10,63,Striped polecat,posWhy,Kill snakes,0,0,Ka-Ndengeza
+10,64,Striped polecat,posWhy,Cultural,0,0,Ka-Ndengeza
+10,64,Striped polecat,posWhy,Other,0,0,Ka-Ndengeza
+9,65,Small spotted genet,posWhy,N/A,58,100,Ka-Ndengeza
+9,66,Small spotted genet,posWhy,Kill rodents,0,0,Ka-Ndengeza
+9,67,Small spotted genet,posWhy,Kill snakes,0,0,Ka-Ndengeza
+9,68,Small spotted genet,posWhy,Cultural,0,0,Ka-Ndengeza
+9,68,Small spotted genet,posWhy,Other,0,0,Ka-Ndengeza
+6,69,Water mongoose,posWhy,N/A,58,100,Ka-Ndengeza
+6,70,Water mongoose,posWhy,Kill rodents,0,0,Ka-Ndengeza
+6,71,Water mongoose,posWhy,Kill snakes,0,0,Ka-Ndengeza
+6,72,Water mongoose,posWhy,Cultural,0,0,Ka-Ndengeza
+6,72,Water mongoose,posWhy,Other,0,0,Ka-Ndengeza
+5,73,White tailed mongoose,posWhy,N/A,58,100,Ka-Ndengeza
+5,74,White tailed mongoose,posWhy,Kill rodents,0,0,Ka-Ndengeza
+5,75,White tailed mongoose,posWhy,Kill snakes,0,0,Ka-Ndengeza
+5,76,White tailed mongoose,posWhy,Cultural,0,0,Ka-Ndengeza
+5,76,White tailed mongoose,posWhy,Other,0,0,Ka-Ndengeza
+4,77,Yellow mongoose,posWhy,N/A,58,100,Ka-Ndengeza
+4,78,Yellow mongoose,posWhy,Kill rodents,0,0,Ka-Ndengeza
+4,79,Yellow mongoose,posWhy,Kill snakes,0,0,Ka-Ndengeza
+4,80,Yellow mongoose,posWhy,Cultural,0,0,Ka-Ndengeza
+4,80,Yellow mongoose,posWhy,Other,0,0,Ka-Ndengeza
+8,1,African civet,negWhy,N/A,69,100,Vyeboom
+8,2,African civet,negWhy,Kill poultry,0,0,Vyeboom
+8,3,African civet,negWhy,Kill pets ,0,0,Vyeboom
+8,4,African civet,negWhy,Cultural,0,0,Vyeboom
+13,5,African wildcat,negWhy,N/A,39,56.5,Vyeboom
+13,6,African wildcat,negWhy,Kill poultry,30,43.5,Vyeboom
+13,7,African wildcat,negWhy,Kill pets ,0,0,Vyeboom
+13,8,African wildcat,negWhy,Cultural,0,0,Vyeboom
+7,9,Black backed jackal,negWhy,N/A,54,78.3,Vyeboom
+7,10,Black backed jackal,negWhy,Kill poultry,4,5.8,Vyeboom
+7,11,Black backed jackal,negWhy,Kill pets ,0,0,Vyeboom
+7,12,Black backed jackal,negWhy,Cultural,11,15.9,Vyeboom
+1,13,Banded mongoose,negWhy,N/A,39,56.5,Vyeboom
+1,14,Banded mongoose,negWhy,Kill poultry,30,43.5,Vyeboom
+1,15,Banded mongoose,negWhy,Kill pets ,0,0,Vyeboom
+1,16,Banded mongoose,negWhy,Cultural,0,0,Vyeboom
+11,17,Caracal,negWhy,N/A,69,100,Vyeboom
+11,18,Caracal,negWhy,Kill poultry,0,0,Vyeboom
+11,19,Caracal,negWhy,Kill pets ,0,0,Vyeboom
+11,20,Caracal,negWhy,Cultural,0,0,Vyeboom
+15,25,Domestic cat,negWhy,N/A,68,98.6,Vyeboom
+15,26,Domestic cat,negWhy,Kill poultry,1,1.4,Vyeboom
+15,27,Domestic cat,negWhy,Kill pets ,0,0,Vyeboom
+15,28,Domestic cat,negWhy,Cultural,0,0,Vyeboom
+16,29,Domestic dog,negWhy,N/A,68,98.6,Vyeboom
+16,30,Domestic dog,negWhy,Kill poultry,1,1.4,Vyeboom
+16,31,Domestic dog,negWhy,Kill pets ,0,0,Vyeboom
+16,32,Domestic dog,negWhy,Cultural,0,0,Vyeboom
+2,33,Dwarf mongoose,negWhy,N/A,3,4.3,Vyeboom
+2,34,Dwarf mongoose,negWhy,Kill poultry,66,95.7,Vyeboom
+2,35,Dwarf mongoose,negWhy,Kill pets ,0,0,Vyeboom
+2,36,Dwarf mongoose,negWhy,Cultural,0,0,Vyeboom
+14,45,Honey badger,negWhy,N/A,69,100,Vyeboom
+14,46,Honey badger,negWhy,Kill poultry,0,0,Vyeboom
+14,47,Honey badger,negWhy,Kill pets ,0,0,Vyeboom
+14,48,Honey badger,negWhy,Cultural,0,0,Vyeboom
+12,53,Serval,negWhy,N/A,69,100,Vyeboom
+12,54,Serval,negWhy,Kill poultry,0,0,Vyeboom
+12,55,Serval,negWhy,Kill pets ,0,0,Vyeboom
+12,56,Serval,negWhy,Cultural,0,0,Vyeboom
+3,57,Slender mongoose,negWhy,N/A,14,20.3,Vyeboom
+3,58,Slender mongoose,negWhy,Kill poultry,55,79.7,Vyeboom
+3,59,Slender mongoose,negWhy,Kill pets ,0,0,Vyeboom
+3,60,Slender mongoose,negWhy,Cultural,0,0,Vyeboom
+10,61,Striped polecat,negWhy,N/A,69,100,Vyeboom
+10,62,Striped polecat,negWhy,Kill poultry,0,0,Vyeboom
+10,63,Striped polecat,negWhy,Kill pets ,0,0,Vyeboom
+10,64,Striped polecat,negWhy,Cultural,0,0,Vyeboom
+9,65,Small spotted genet,negWhy,N/A,69,100,Vyeboom
+9,66,Small spotted genet,negWhy,Kill poultry,0,0,Vyeboom
+9,67,Small spotted genet,negWhy,Kill pets ,0,0,Vyeboom
+9,68,Small spotted genet,negWhy,Cultural,0,0,Vyeboom
+6,69,Water mongoose,negWhy,N/A,69,100,Vyeboom
+6,70,Water mongoose,negWhy,Kill poultry,0,0,Vyeboom
+6,71,Water mongoose,negWhy,Kill pets ,0,0,Vyeboom
+6,72,Water mongoose,negWhy,Cultural,0,0,Vyeboom
+5,73,White tailed mongoose,negWhy,N/A,19,27.5,Vyeboom
+5,74,White tailed mongoose,negWhy,Kill poultry,50,72.5,Vyeboom
+5,75,White tailed mongoose,negWhy,Kill pets ,0,0,Vyeboom
+5,76,White tailed mongoose,negWhy,Cultural,0,0,Vyeboom
+4,77,Yellow mongoose,negWhy,N/A,69,100,Vyeboom
+4,78,Yellow mongoose,negWhy,Kill poultry,0,0,Vyeboom
+4,79,Yellow mongoose,negWhy,Kill pets ,0,0,Vyeboom
+4,80,Yellow mongoose,negWhy,Cultural,0,0,Vyeboom
+8,1,African civet,posWhy,N/A,69,100,Vyeboom
+8,2,African civet,posWhy,Kill rodents,0,0,Vyeboom
+8,3,African civet,posWhy,Kill snakes,0,0,Vyeboom
+8,4,African civet,posWhy,Cultural,0,0,Vyeboom
+8,4,African civet,posWhy,Other,0,0,Vyeboom
+13,5,African wildcat,posWhy,N/A,69,100,Vyeboom
+13,6,African wildcat,posWhy,Kill rodents,0,0,Vyeboom
+13,7,African wildcat,posWhy,Kill snakes,0,0,Vyeboom
+13,8,African wildcat,posWhy,Cultural,0,0,Vyeboom
+13,8,African wildcat,posWhy,Other,0,0,Vyeboom
+7,9,Black backed jackal,posWhy,N/A,69,100,Vyeboom
+7,10,Black backed jackal,posWhy,Kill rodents,0,0,Vyeboom
+7,11,Black backed jackal,posWhy,Kill snakes,0,0,Vyeboom
+7,12,Black backed jackal,posWhy,Cultural,0,0,Vyeboom
+7,12,Black backed jackal,posWhy,Other,0,0,Vyeboom
+1,13,Banded mongoose,posWhy,N/A,69,100,Vyeboom
+1,14,Banded mongoose,posWhy,Kill rodents,0,0,Vyeboom
+1,15,Banded mongoose,posWhy,Kill snakes,0,0,Vyeboom
+1,16,Banded mongoose,posWhy,Cultural,0,0,Vyeboom
+1,16,Banded mongoose,posWhy,Other,0,0,Vyeboom
+11,17,Caracal,posWhy,N/A,69,100,Vyeboom
+11,18,Caracal,posWhy,Kill rodents,0,0,Vyeboom
+11,19,Caracal,posWhy,Kill snakes,0,0,Vyeboom
+11,20,Caracal,posWhy,Cultural,0,0,Vyeboom
+11,20,Caracal,posWhy,Other,0,0,Vyeboom
+15,25,Domestic cat,posWhy,N/A,1,1.4,Vyeboom
+15,26,Domestic cat,posWhy,Kill rodents,68,98.6,Vyeboom
+15,27,Domestic cat,posWhy,Kill snakes,0,0,Vyeboom
+15,28,Domestic cat,posWhy,Cultural,0,0,Vyeboom
+15,28,Domestic cat,posWhy,Other,0,0,Vyeboom
+16,29,Domestic dog,posWhy,N/A,1,1.4,Vyeboom
+16,30,Domestic dog,posWhy,Kill rodents,0,0,Vyeboom
+16,31,Domestic dog,posWhy,Kill snakes,0,0,Vyeboom
+16,32,Domestic dog,posWhy,Cultural,0,0,Vyeboom
+16,32,Domestic dog,posWhy,Other,68,98.6,Vyeboom
+2,33,Dwarf mongoose,posWhy,N/A,69,100,Vyeboom
+2,34,Dwarf mongoose,posWhy,Kill rodents,0,0,Vyeboom
+2,35,Dwarf mongoose,posWhy,Kill snakes,0,0,Vyeboom
+2,36,Dwarf mongoose,posWhy,Cultural,0,0,Vyeboom
+2,36,Dwarf mongoose,posWhy,Other,0,0,Vyeboom
+14,45,Honey badger,posWhy,N/A,69,100,Vyeboom
+14,46,Honey badger,posWhy,Kill rodents,0,0,Vyeboom
+14,47,Honey badger,posWhy,Kill snakes,0,0,Vyeboom
+14,48,Honey badger,posWhy,Cultural,0,0,Vyeboom
+14,48,Honey badger,posWhy,Other,0,0,Vyeboom
+12,53,Serval,posWhy,N/A,69,100,Vyeboom
+12,54,Serval,posWhy,Kill rodents,0,0,Vyeboom
+12,55,Serval,posWhy,Kill snakes,0,0,Vyeboom
+12,56,Serval,posWhy,Cultural,0,0,Vyeboom
+12,56,Serval,posWhy,Other,0,0,Vyeboom
+3,57,Slender mongoose,posWhy,N/A,69,100,Vyeboom
+3,58,Slender mongoose,posWhy,Kill rodents,0,0,Vyeboom
+3,59,Slender mongoose,posWhy,Kill snakes,0,0,Vyeboom
+3,60,Slender mongoose,posWhy,Cultural,0,0,Vyeboom
+3,60,Slender mongoose,posWhy,Other,0,0,Vyeboom
+10,61,Striped polecat,posWhy,N/A,69,100,Vyeboom
+10,62,Striped polecat,posWhy,Kill rodents,0,0,Vyeboom
+10,63,Striped polecat,posWhy,Kill snakes,0,0,Vyeboom
+10,64,Striped polecat,posWhy,Cultural,0,0,Vyeboom
+10,64,Striped polecat,posWhy,Other,0,0,Vyeboom
+9,65,Small spotted genet,posWhy,N/A,69,100,Vyeboom
+9,66,Small spotted genet,posWhy,Kill rodents,0,0,Vyeboom
+9,67,Small spotted genet,posWhy,Kill snakes,0,0,Vyeboom
+9,68,Small spotted genet,posWhy,Cultural,0,0,Vyeboom
+9,68,Small spotted genet,posWhy,Other,0,0,Vyeboom
+6,69,Water mongoose,posWhy,N/A,69,100,Vyeboom
+6,70,Water mongoose,posWhy,Kill rodents,0,0,Vyeboom
+6,71,Water mongoose,posWhy,Kill snakes,0,0,Vyeboom
+6,72,Water mongoose,posWhy,Cultural,0,0,Vyeboom
+6,72,Water mongoose,posWhy,Other,0,0,Vyeboom
+5,73,White tailed mongoose,posWhy,N/A,69,100,Vyeboom
+5,74,White tailed mongoose,posWhy,Kill rodents,0,0,Vyeboom
+5,75,White tailed mongoose,posWhy,Kill snakes,0,0,Vyeboom
+5,76,White tailed mongoose,posWhy,Cultural,0,0,Vyeboom
+5,76,White tailed mongoose,posWhy,Other,0,0,Vyeboom
+4,77,Yellow mongoose,posWhy,N/A,69,100,Vyeboom
+4,78,Yellow mongoose,posWhy,Kill rodents,0,0,Vyeboom
+4,79,Yellow mongoose,posWhy,Kill snakes,0,0,Vyeboom
+4,80,Yellow mongoose,posWhy,Cultural,0,0,Vyeboom
+4,80,Yellow mongoose,posWhy,Other,0,0,Vyeboom

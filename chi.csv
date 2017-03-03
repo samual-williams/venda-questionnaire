@@ -1,0 +1,241 @@
+species,question,response,Ka-Ndengeza,Vyeboom
+African civet,neg,0,58,69
+African civet,neg,1,0,0
+African wild cat,neg,0,54,39
+African wild cat,neg,1,4,30
+Black backed jackal,neg,0,58,65
+Black backed jackal,neg,1,0,4
+Banded mongoose,neg,0,46,39
+Banded mongoose,neg,1,12,30
+Caracal,neg,0,58,69
+Caracal,neg,1,0,0
+Crows,neg,0,3,3
+Crows,neg,1,55,66
+Domestic cat,neg,0,54,68
+Domestic cat,neg,1,4,1
+Domestic dog,neg,0,53,68
+Domestic dog,neg,1,5,1
+Dwarf mongoose,neg,0,39,3
+Dwarf mongoose,neg,1,19,66
+Eagles,neg,0,14,19
+Eagles,neg,1,44,50
+Falcons,neg,0,12,19
+Falcons,neg,1,46,50
+Honey badger,neg,0,58,69
+Honey badger,neg,1,0,0
+Owls,neg,0,31,1
+Owls,neg,1,27,68
+Serval,neg,0,58,69
+Serval,neg,1,0,0
+Slender mongoose,neg,0,6,14
+Slender mongoose,neg,1,52,55
+Striped polecat,neg,0,58,69
+Striped polecat,neg,1,0,0
+Small spotted genet,neg,0,57,69
+Small spotted genet,neg,1,1,0
+Water mongoose,neg,0,58,69
+Water mongoose,neg,1,0,0
+White tailed mongoose,neg,0,45,19
+White tailed mongoose,neg,1,13,50
+Yellow mongoose,neg,0,58,69
+Yellow mongoose,neg,1,0,0
+African civet,seen,0,57,69
+African civet,seen,1,1,0
+African wild cat,seen,0,31,26
+African wild cat,seen,1,27,43
+Black backed jackal,seen,0,47,47
+Black backed jackal,seen,1,11,22
+Banded mongoose,seen,0,54,36
+Banded mongoose,seen,1,4,33
+Caracal,seen,0,58,69
+Caracal,seen,1,0,0
+Crows,seen,0,0,0
+Crows,seen,1,58,69
+Domestic cat,seen,0,0,0
+Domestic cat,seen,1,58,69
+Domestic dog,seen,0,0,0
+Domestic dog,seen,1,58,69
+Dwarf mongoose,seen,0,32,0
+Dwarf mongoose,seen,1,26,69
+Eagles,seen,0,18,3
+Eagles,seen,1,40,66
+Falcons,seen,0,17,3
+Falcons,seen,1,41,66
+Honey badger,seen,0,56,68
+Honey badger,seen,1,2,1
+Owls,seen,0,1,0
+Owls,seen,1,57,69
+Serval,seen,0,58,69
+Serval,seen,1,0,0
+Slender mongoose,seen,0,5,11
+Slender mongoose,seen,1,53,58
+Striped polecat,seen,0,41,68
+Striped polecat,seen,1,17,1
+Small spotted genet,seen,0,39,64
+Small spotted genet,seen,1,19,5
+Water mongoose,seen,0,58,69
+Water mongoose,seen,1,0,0
+White tailed mongoose,seen,0,48,17
+White tailed mongoose,seen,1,10,52
+Yellow mongoose,seen,0,24,56
+Yellow mongoose,seen,1,34,13
+African civet,killed,0,58,69
+African civet,killed,1,0,0
+African wild cat,killed,0,57,69
+African wild cat,killed,1,1,0
+Black backed jackal,killed,0,58,69
+Black backed jackal,killed,1,0,0
+Banded mongoose,killed,0,58,69
+Banded mongoose,killed,1,0,0
+Caracal,killed,0,58,69
+Caracal,killed,1,0,0
+Crows,killed,0,55,69
+Crows,killed,1,3,0
+Domestic cat,killed,0,58,69
+Domestic cat,killed,1,0,0
+Domestic dog,killed,0,58,69
+Domestic dog,killed,1,0,0
+Dwarf mongoose,killed,0,57,68
+Dwarf mongoose,killed,1,1,1
+Eagles,killed,0,56,69
+Eagles,killed,1,2,0
+Falcons,killed,0,56,69
+Falcons,killed,1,2,0
+Honey badger,killed,0,58,69
+Honey badger,killed,1,0,0
+Owls,killed,0,57,69
+Owls,killed,1,1,0
+Serval,killed,0,58,69
+Serval,killed,1,0,0
+Slender mongoose,killed,0,53,69
+Slender mongoose,killed,1,5,0
+Striped polecat,killed,0,58,69
+Striped polecat,killed,1,0,0
+Small spotted genet,killed,0,58,69
+Small spotted genet,killed,1,0,0
+Water mongoose,killed,0,58,69
+Water mongoose,killed,1,0,0
+White tailed mongoose,killed,0,58,69
+White tailed mongoose,killed,1,0,0
+Yellow mongoose,killed,0,57,69
+Yellow mongoose,killed,1,1,0
+African civet,killRodents,0,58,69
+African civet,killRodents,1,0,0
+African wild cat,killRodents,0,32,26
+African wild cat,killRodents,1,26,43
+Black backed jackal,killRodents,0,58,69
+Black backed jackal,killRodents,1,0,0
+Banded mongoose,killRodents,0,58,58
+Banded mongoose,killRodents,1,0,11
+Caracal,killRodents,0,58,69
+Caracal,killRodents,1,0,0
+Crows,killRodents,0,49,33
+Crows,killRodents,1,9,36
+Domestic cat,killRodents,0,0,0
+Domestic cat,killRodents,1,58,69
+Domestic dog,killRodents,0,56,69
+Domestic dog,killRodents,1,2,0
+Dwarf mongoose,killRodents,0,55,58
+Dwarf mongoose,killRodents,1,3,11
+Eagles,killRodents,0,49,25
+Eagles,killRodents,1,9,44
+Falcons,killRodents,0,48,25
+Falcons,killRodents,1,10,44
+Honey badger,killRodents,0,58,69
+Honey badger,killRodents,1,0,0
+Owls,killRodents,0,13,11
+Owls,killRodents,1,45,58
+Serval,killRodents,0,58,69
+Serval,killRodents,1,0,0
+Slender mongoose,killRodents,0,43,58
+Slender mongoose,killRodents,1,15,11
+Striped polecat,killRodents,0,42,69
+Striped polecat,killRodents,1,16,0
+Small spotted genet,killRodents,0,50,69
+Small spotted genet,killRodents,1,8,0
+Water mongoose,killRodents,0,58,69
+Water mongoose,killRodents,1,0,0
+White tailed mongoose,killRodents,0,56,58
+White tailed mongoose,killRodents,1,2,11
+Yellow mongoose,killRodents,0,57,61
+Yellow mongoose,killRodents,1,1,8
+African civet,pos,0,58,69
+African civet,pos,1,0,0
+African wild cat,pos,0,58,69
+African wild cat,pos,1,0,0
+Black backed jackal,pos,0,58,69
+Black backed jackal,pos,1,0,0
+Banded mongoose,pos,0,58,69
+Banded mongoose,pos,1,0,0
+Caracal,pos,0,58,69
+Caracal,pos,1,0,0
+Crows,pos,0,58,69
+Crows,pos,1,0,0
+Domestic cat,pos,0,58,69
+Domestic cat,pos,1,0,0
+Domestic dog,pos,0,58,69
+Domestic dog,pos,1,0,0
+Dwarf mongoose,pos,0,58,69
+Dwarf mongoose,pos,1,0,0
+Eagles,pos,0,58,69
+Eagles,pos,1,0,0
+Falcons,pos,0,58,69
+Falcons,pos,1,0,0
+Honey badger,pos,0,58,69
+Honey badger,pos,1,0,0
+Owls,pos,0,58,69
+Owls,pos,1,0,0
+Serval,pos,0,58,69
+Serval,pos,1,0,0
+Slender mongoose,pos,0,58,69
+Slender mongoose,pos,1,0,0
+Striped polecat,pos,0,58,69
+Striped polecat,pos,1,0,0
+Small spotted genet,pos,0,58,69
+Small spotted genet,pos,1,0,0
+Water mongoose,pos,0,58,69
+Water mongoose,pos,1,0,0
+White tailed mongoose,pos,0,58,69
+White tailed mongoose,pos,1,0,0
+Yellow mongoose,pos,0,58,69
+Yellow mongoose,pos,1,0,0
+African civet,pos,0,58,69
+African civet,pos,1,0,0
+African wild cat,pos,0,58,69
+African wild cat,pos,1,0,0
+Black backed jackal,pos,0,58,69
+Black backed jackal,pos,1,0,0
+Banded mongoose,pos,0,58,69
+Banded mongoose,pos,1,0,0
+Caracal,pos,0,58,69
+Caracal,pos,1,0,0
+Crows,pos,0,58,69
+Crows,pos,1,0,0
+Domestic cat,pos,0,28,1
+Domestic cat,pos,1,30,68
+Domestic dog,pos,0,24,1
+Domestic dog,pos,1,34,68
+Dwarf mongoose,pos,0,58,69
+Dwarf mongoose,pos,1,0,0
+Eagles,pos,0,58,69
+Eagles,pos,1,0,0
+Falcons,pos,0,58,69
+Falcons,pos,1,0,0
+Honey badger,pos,0,58,69
+Honey badger,pos,1,0,0
+Owls,pos,0,58,69
+Owls,pos,1,0,0
+Serval,pos,0,58,69
+Serval,pos,1,0,0
+Slender mongoose,pos,0,58,69
+Slender mongoose,pos,1,0,0
+Striped polecat,pos,0,58,69
+Striped polecat,pos,1,0,0
+Small spotted genet,pos,0,58,69
+Small spotted genet,pos,1,0,0
+Water mongoose,pos,0,58,69
+Water mongoose,pos,1,0,0
+White tailed mongoose,pos,0,58,69
+White tailed mongoose,pos,1,0,0
+Yellow mongoose,pos,0,58,69
+Yellow mongoose,pos,1,0,0

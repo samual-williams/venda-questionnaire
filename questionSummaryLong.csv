@@ -1,0 +1,97 @@
+order,class,species,village,response,seenCount,seenPercentage
+1,mammal,Banded mongoose,Ka-Ndengeza,No,53,91.38
+2,mammal,Banded mongoose,Ka-Ndengeza,Yes,4,6.9
+3,mammal,Banded mongoose,Ka-Ndengeza,Not sure,1,1.72
+4,mammal,Dwarf mongoose,Ka-Ndengeza,No,30,51.72
+5,mammal,Dwarf mongoose,Ka-Ndengeza,Yes,26,44.83
+6,mammal,Dwarf mongoose,Ka-Ndengeza,Not sure,2,3.45
+7,mammal,Slender mongoose,Ka-Ndengeza,No,5,8.62
+8,mammal,Slender mongoose,Ka-Ndengeza,Yes,53,91.38
+9,mammal,Slender mongoose,Ka-Ndengeza,Not sure,0,0
+10,mammal,Yellow mongoose,Ka-Ndengeza,No,24,41.38
+11,mammal,Yellow mongoose,Ka-Ndengeza,Yes,34,58.62
+12,mammal,Yellow mongoose,Ka-Ndengeza,Not sure,0,0
+13,mammal,White tailed mongoose,Ka-Ndengeza,No,48,82.76
+14,mammal,White tailed mongoose,Ka-Ndengeza,Yes,10,17.24
+15,mammal,White tailed mongoose,Ka-Ndengeza,Not sure,0,0
+16,mammal,Water mongoose,Ka-Ndengeza,No,58,100
+17,mammal,Water mongoose,Ka-Ndengeza,Yes,0,0
+18,mammal,Water mongoose,Ka-Ndengeza,Not sure,0,0
+19,mammal,Black backed jackal,Ka-Ndengeza,No,47,81.03
+20,mammal,Black backed jackal,Ka-Ndengeza,Yes,11,18.97
+21,mammal,Black backed jackal,Ka-Ndengeza,Not sure,0,0
+22,mammal,African civet,Ka-Ndengeza,No,57,98.28
+23,mammal,African civet,Ka-Ndengeza,Yes,1,1.72
+24,mammal,African civet,Ka-Ndengeza,Not sure,0,0
+25,mammal,Small spotted genet,Ka-Ndengeza,No,39,67.24
+26,mammal,Small spotted genet,Ka-Ndengeza,Yes,19,32.76
+27,mammal,Small spotted genet,Ka-Ndengeza,Not sure,0,0
+28,mammal,Striped polecat,Ka-Ndengeza,No,41,70.69
+29,mammal,Striped polecat,Ka-Ndengeza,Yes,17,29.31
+30,mammal,Striped polecat,Ka-Ndengeza,Not sure,0,0
+31,mammal,Caracal,Ka-Ndengeza,No,58,100
+32,mammal,Caracal,Ka-Ndengeza,Yes,0,0
+33,mammal,Caracal,Ka-Ndengeza,Not sure,0,0
+34,mammal,Serval,Ka-Ndengeza,No,58,100
+35,mammal,Serval,Ka-Ndengeza,Yes,0,0
+36,mammal,Serval,Ka-Ndengeza,Not sure,0,0
+37,mammal,African wildcat,Ka-Ndengeza,No,30,51.72
+38,mammal,African wildcat,Ka-Ndengeza,Yes,27,46.55
+39,mammal,African wildcat,Ka-Ndengeza,Not sure,1,1.72
+40,mammal,Honey badger,Ka-Ndengeza,No,56,96.55
+41,mammal,Honey badger,Ka-Ndengeza,Yes,2,3.45
+42,mammal,Honey badger,Ka-Ndengeza,Not sure,0,0
+43,mammal,Domestic cat,Ka-Ndengeza,No,0,0
+44,mammal,Domestic cat,Ka-Ndengeza,Yes,58,100
+45,mammal,Domestic cat,Ka-Ndengeza,Not sure,0,0
+46,mammal,Domestic dog,Ka-Ndengeza,No,0,0
+47,mammal,Domestic dog,Ka-Ndengeza,Yes,58,100
+48,mammal,Domestic dog,Ka-Ndengeza,Not sure,0,0
+61,mammal,Banded mongoose,Vyeboom,No,26,37.68
+62,mammal,Banded mongoose,Vyeboom,Yes,33,47.83
+63,mammal,Banded mongoose,Vyeboom,Not sure,10,14.49
+64,mammal,Dwarf mongoose,Vyeboom,No,0,0
+65,mammal,Dwarf mongoose,Vyeboom,Yes,69,100
+66,mammal,Dwarf mongoose,Vyeboom,Not sure,0,0
+67,mammal,Slender mongoose,Vyeboom,No,0,0
+68,mammal,Slender mongoose,Vyeboom,Yes,58,84.06
+69,mammal,Slender mongoose,Vyeboom,Not sure,11,15.94
+70,mammal,Yellow mongoose,Vyeboom,No,37,53.62
+71,mammal,Yellow mongoose,Vyeboom,Yes,13,18.84
+72,mammal,Yellow mongoose,Vyeboom,Not sure,19,27.54
+73,mammal,White tailed mongoose,Vyeboom,No,17,24.64
+74,mammal,White tailed mongoose,Vyeboom,Yes,52,75.36
+75,mammal,White tailed mongoose,Vyeboom,Not sure,0,0
+76,mammal,Water mongoose,Vyeboom,No,69,100
+77,mammal,Water mongoose,Vyeboom,Yes,0,0
+78,mammal,Water mongoose,Vyeboom,Not sure,0,0
+79,mammal,Black backed jackal,Vyeboom,No,47,68.12
+80,mammal,Black backed jackal,Vyeboom,Yes,22,31.88
+81,mammal,Black backed jackal,Vyeboom,Not sure,0,0
+82,mammal,African civet,Vyeboom,No,58,84.06
+83,mammal,African civet,Vyeboom,Yes,0,0
+84,mammal,African civet,Vyeboom,Not sure,11,15.94
+85,mammal,Small spotted genet,Vyeboom,No,53,76.81
+86,mammal,Small spotted genet,Vyeboom,Yes,5,7.25
+87,mammal,Small spotted genet,Vyeboom,Not sure,11,15.94
+88,mammal,Striped polecat,Vyeboom,No,68,98.55
+89,mammal,Striped polecat,Vyeboom,Yes,1,1.45
+90,mammal,Striped polecat,Vyeboom,Not sure,0,0
+91,mammal,Caracal,Vyeboom,No,69,100
+92,mammal,Caracal,Vyeboom,Yes,0,0
+93,mammal,Caracal,Vyeboom,Not sure,0,0
+94,mammal,Serval,Vyeboom,No,69,100
+95,mammal,Serval,Vyeboom,Yes,0,0
+96,mammal,Serval,Vyeboom,Not sure,0,0
+97,mammal,African wildcat,Vyeboom,No,26,37.68
+98,mammal,African wildcat,Vyeboom,Yes,43,62.32
+99,mammal,African wildcat,Vyeboom,Not sure,0,0
+100,mammal,Honey badger,Vyeboom,No,68,98.55
+101,mammal,Honey badger,Vyeboom,Yes,1,1.45
+102,mammal,Honey badger,Vyeboom,Not sure,0,0
+103,mammal,Domestic cat,Vyeboom,No,0,0
+104,mammal,Domestic cat,Vyeboom,Yes,69,100
+105,mammal,Domestic cat,Vyeboom,Not sure,0,0
+106,mammal,Domestic dog,Vyeboom,No,0,0
+107,mammal,Domestic dog,Vyeboom,Yes,69,100
+108,mammal,Domestic dog,Vyeboom,Not sure,0,0
